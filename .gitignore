@@ -1,0 +1,5 @@
+# Folder for python execution
+__pycache__
+
+# Virtual env folder
+file_server_venv
